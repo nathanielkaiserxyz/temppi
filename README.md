@@ -6,3 +6,5 @@ The code here is a modification of [this](https://learn.adafruit.com/adafruits-r
 Read about the process: [here](https://nathanielkaiser.xyz/treehousetemps.html)
 
 When installing add your own influxdb server ip and token, as well as changing the bucket and project in the code.
+
+You also need to enable 1-wire in sudo raspi-config
